@@ -23,6 +23,8 @@ Olá, meu nome é Lucas e sou um estudante de Ciência da Computação atualment
 ## Repositories
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasantonelli21&repo=BotEnviarMensagem&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lucasantonelli21/BotEnviarMensagem)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasantonelli21&repo=BotEnviarMensagem&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]
+(https://github.com/lucasantonelli21/minimal-api-dio)
 <!--
 **lucasantonelli21/lucasantonelli21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
