@@ -12,6 +12,8 @@ Olá, meu nome é Lucas e sou um estudante de Ciência da Computação atualment
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lucasantonelli21&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
