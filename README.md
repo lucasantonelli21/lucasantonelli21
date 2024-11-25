@@ -23,8 +23,10 @@ Olá, meu nome é Lucas e sou um estudante de Ciência da Computação atualment
 
 
 ## Repositories
-
+              
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasantonelli21&repo=url-shortener&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lucasantonelli21/url-shortener)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasantonelli21&repo=instabytes-alura&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lucasantonelli21/instabytes-alura)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasantonelli21&repo=minimal-api-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lucasantonelli21/minimal-api-dio)
 
