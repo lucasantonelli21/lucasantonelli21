@@ -34,7 +34,9 @@ Olá, meu nome é Lucas e sou um estudante de Ciência da Computação atualment
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasantonelli21&repo=BotEnviarMensagem&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lucasantonelli21/BotEnviarMensagem)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasantonelli21&repo=Aviario-Campo-Alegre&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lucasantonelli21/Aviario-Campo-Alegre)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasantonelli21&repo=Aviario-Campo-Alegre-API&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lucasantonelli21/Aviario-Campo-Alegre-API)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasantonelli21&repo=Aviario-Campo-Alegre-FrontEnd&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lucasantonelli21/Aviario-Campo-Alegre-FrontEnd)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasantonelli21&repo=Trabalho-Final-Redes2&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lucasantonelli21/Trabalho-Final-Redes2)
 
